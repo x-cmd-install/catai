@@ -137,4 +137,3 @@ total:
 ---
 
 ---
-{"id":262793312,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOJONI184Pqehg","tag_name":"v3.3.0","target_commitish":"main","name":"v3.3.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-11-16T18:33:44Z","updated_at":"2025-11-16T18:36:17Z","published_at":"2025-11-16T18:36:17Z","assets":[],"body":"# [3.3.0](https://github.com/withcatai/catai/compare/v3.2.2...v3.3.0) (2025-11-16)\n\n\n### Features\n\n* thinking tokens, function calling, and new React UI ([#70](https://github.com/withcatai/catai/issues/70)) ([003f29e](https://github.com/withcatai/catai/commit/003f29ecf55fda01f4278581ab4c3ec676f9c76c))\n\n\n\n"}
